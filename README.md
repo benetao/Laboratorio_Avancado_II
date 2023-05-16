@@ -82,10 +82,10 @@ Ao longo do desenvolvimento do problema representado na imagem abaixo, nós sele
 
 ### Ferramentas <a name="ferramentas"></a>
 
-As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, principalmente, as plataformas Github e Jupyter Notebook, em que escrevemos os códigos usando a  linguagem Pyhton.
+As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, principalmente, as plataformas Quasar e Jupyter Notebook, em que escrevemos os códigos usando a  linguagem Pyhton.
 </div>
 <div align="center">
-<img align="center" alt="Rafa-Python" height="60" width="60" src= https://user-images.githubusercontent.com/106626661/225802391-d24ac038-78b1-4b2d-8720-f5f9fb4dac9a.png>
+<img align="center" alt="Rafa-Python" height="60" width="60" src="https://github.com/benetao/Laboratorio_Avancado_II/assets/106626661/f5469a0e-a1de-4b9e-b147-fd6266f44344">
  <img align="center" alt="Rafa-Python" height="70" width="70" src= https://user-images.githubusercontent.com/106626661/225802823-3edf4493-8191-433f-9152-7e73b941aadb.png>
  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
@@ -98,10 +98,17 @@ As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, pri
 <!-- Progresso -->
 ## Progresso do Projeto <a name="progresso"></a>
 
-- [x] Leitura da Literatura
-    - [x] Definição da Mistura
-    - [x] Definição da Entalpia da Mistura
-    - [x] Definição do Diagrama de Fases da Mistura
+- [x] Busca na Literatura:
+    - [x] Glomalin: A miracle protein for sustaintability
+    - [x] Glomalin: Hiding Place For A Third Of The World's Stored Soil Carbon
+    - [x] Glomalin – Truths, myths, and the future of this elusive soil glycoprotein
+    - [x] Glomalin and Contribution of Glomalin to Carbon Sequestration in Soil:
+    - [x] Glomalin-related soil protein: The particle aggregation mechanism and its insight into coastal environment improvement
+    - [x] A critical review of 25 years of glomalin research: a better mechanical understanding and robust quantification techniques are required
+    - [x] Improving soil protein extraction for metaproteome analysis and glomalin-related soil protein detection
+    - [x] The Life Cycle of Structural Biology Data
+ 
+
     
 - [x] Design de Experimentos
     - [x] ~~Purificação~~
@@ -116,7 +123,7 @@ Entre nas pastas x e y para acessar os notebooks e arquivos dos respectivos desa
 <!-- Sobre mim -->
 ## Sobre nós
 
-Quem são os alunos por trás desse projeto de Termodinâmica Avançada? Pois bem, permita-nos nos apresentar:
+Quem são os alunos por trás desse projeto de Laboratório Avançado II? Pois bem, permita-nos nos apresentar:
 
 - 👋 Somos Caio Palatin, Gustavo Beneti e Isabela Beneti
 - 📕 Estamos no terceiro semestre do Bacharelado em Ciência e Tecnologia da Ilum Escola de Ciência
